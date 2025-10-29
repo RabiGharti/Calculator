@@ -1,0 +1,33 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+    background: red;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+
+.button{
+    padding: 20px;
+    background-color: rgb(247, 72, 24);
+}
+
+.flex{
+display: flex;
+}
+
+.flex-col{
+flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.input{
+    padding: 20vb;
+}
